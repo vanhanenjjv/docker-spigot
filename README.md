@@ -2,7 +2,7 @@
 
 ## Building 
 
-Available build arguments and their defaults:
+The available build arguments and their defaults:
 
 | Build Argument    | Default                                                                                            |
 |:------------------|:---------------------------------------------------------------------------------------------------| 
@@ -13,7 +13,7 @@ Available build arguments and their defaults:
 
 ## Running
 
-Available environment variables:
+The available environment variables and their defaults:
 
 | Environment Variable | Default |
 |:--------------------|:---------|
@@ -22,7 +22,7 @@ Available environment variables:
 | EULA                | false    |
 
 
-Available volumes:
+The available volumes and their descriptions:
 
 | Volume     | Description                                                        |
 |:-----------|:-------------------------------------------------------------------|
